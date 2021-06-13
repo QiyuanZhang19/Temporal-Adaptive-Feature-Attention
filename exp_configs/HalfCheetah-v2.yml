@@ -1,0 +1,17 @@
+batch_size: 64
+eval_episodes: 10
+eval_freq: 5000
+flag_horizon_trick: true
+gru_hidden_size: 128
+hidden_sizes:
+- 200
+- 200
+layer_norm: true
+max_buffer_size: 1000000
+max_timesteps: 1000000
+qk_len: 64
+seq_len: 4
+start_timesteps: 5000
+use_attention_actor: true
+use_attention_critic: false
+v_len: 400
