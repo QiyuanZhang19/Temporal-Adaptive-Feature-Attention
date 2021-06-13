@@ -6,4 +6,4 @@ sh run_tafa.sh
 ### 2. Testing
 python main_test_tafa.py
 ### 3. Publication
-If you find this repository useful, please cite our
+If you find this repository useful, please cite our paper
