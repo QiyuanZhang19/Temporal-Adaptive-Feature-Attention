@@ -1,6 +1,6 @@
 # Temporal-Adaptive-Feature-Attention
 ## Learning to Discover Task-relevant Features for Interpretable Reinforcement Learning
-Qiyuan Zhang, Xiaoteng Ma, Yiqin Yang, Jun Yang, Yu Liu, Bin Liang and Chenghao Li
+Qiyuan Zhang, Xiaoteng Ma, Yiqin Yang, Chenghao Li, Jun Yang, Yu Liu and Bin Liang  
 ### 1. Training
 ``` Bash
 sh run_tafa.sh
